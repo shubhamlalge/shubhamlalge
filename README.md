@@ -1,5 +1,4 @@
-<img src="https://github.com/shubhamlalge/shubhamlalge/blob/main/banner1.jpeg" alt="logo" style="height: 250px; width:100%; object-fit: cover;">
-
+![logo](https://github.com/shubhamlalge/shubhamlalge/blob/main/banner1.jpeg)
 <h1 align="center">Hi 👋, I'm Shubham Lalge!</h1>
 
 <div align="center">
