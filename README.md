@@ -1,4 +1,4 @@
-<img src="https://github.com/shubhamlalge/shubhamlalge/blob/main/banner1.jpeg" alt="logo" style="height: 100px;">
+<img src="https://github.com/shubhamlalge/shubhamlalge/blob/main/banner1.jpeg" alt="logo" style="height: 300px;">
 <h1 align="center">Hi 👋, I'm Shubham Lalge!</h1>
 <h3 align="center">I'm a Software Developer who Love to Code</h3>
 
