@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhamlalge/shubhamlalge/blob/main/banner.jpg)
+![logo](https://github.com/shubhamlalge/shubhamlalge/blob/main/banner1.jpeg)
 <h1 align="center">Hi 👋, I'm Shubham Lalge!</h1>
 <h3 align="center">I'm a Software Developer who Love to Code</h3>
 
