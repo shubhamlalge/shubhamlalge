@@ -9,8 +9,6 @@
 
 - Linkedin Profile: [https://www.linkedin.com/in/shubham-mukund-lalge-3191b3158/](https://www.linkedin.com/in/shubham-mukund-lalge-3191b3158/)
 - 📫 How to reach me: **lalgeshubham6@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1036kUWJs1vILu3chAAD0T7UCA2JmiqIP/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/shubham mukund lalge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham mukund lalge" height="30" width="40" /></a>
